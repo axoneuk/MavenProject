@@ -5,7 +5,7 @@ public class Application {
         System.out.println("Project using JEnkins");
     }
     private void doSomething(){
-        System.out.println("doing");
+        System.out.println("doing something");
     }
 
 }
