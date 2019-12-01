@@ -1,3 +1,4 @@
+import org.junit.Assert;
 import org.junit.Test;
 
 public class Application_Test {
@@ -14,7 +15,7 @@ public class Application_Test {
 
     @Test
     public void new_test1(){
-        System.out.println("running test 1");
+        Assert.assertFalse(false);
     }
 
     @Test
