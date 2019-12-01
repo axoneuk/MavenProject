@@ -11,4 +11,15 @@ public class Application_Test {
     public void test2(){
         System.out.println("running test 1");
     }
+
+    @Test
+    public void new_test1(){
+        System.out.println("running test 1");
+    }
+
+    @Test
+    public void new_test2(){
+        System.out.println("running test 1");
+    }
+
 }
